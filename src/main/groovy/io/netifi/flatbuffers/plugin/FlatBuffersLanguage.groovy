@@ -27,6 +27,7 @@ enum FlatBuffersLanguage {
     GO("go"),
     PYTHON("python"),
     JAVASCRIPT("js"),
+    TYPESCRIPT("ts"),
     PHP("php"),
     GRPC("grpc")
 
